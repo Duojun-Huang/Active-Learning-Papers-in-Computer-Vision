@@ -1,4 +1,4 @@
-Deep active learning-related articles published at ICCV, CVPR, NIPS, and ECCV conferences from 2017 to 2022. Based on the experimental datasets reported in the original papers, these articles are categorized into **image classification**, **semantic segmentation**, **object detection**, and **other directions**. If a dataset includes both image classification and other directions (semantic segmentation, object detection), the article will be included in the table for other directions.
+Deep active learning-related papers published at ICCV, CVPR, NIPS, and ECCV conferences from 2017 to 2022. Based on the experimental datasets reported in the original maintext, these papers are categorized into **image classification**, **semantic segmentation**, **object detection**, and **other directions**. If a paper includes both image classification and other directions (semantic segmentation, object detection), the paper will be included in the table for other directions.
 # Image classification
 | Publication| Paper | Code | Note |
 |--|--|--|--|
@@ -17,18 +17,18 @@ Deep active learning-related articles published at ICCV, CVPR, NIPS, and ECCV co
 # Object detection
 | Publication| Paper | Code | Note |
 |--|--|--|--|
-| ICCV 2021  |  [Influence Selection for Active Learning(classification+detection)](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.pdf)  |
+| ICCV 2021  |  [Influence Selection for Active Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Influence_Selection_for_Active_Learning_ICCV_2021_paper.pdf)  | | classification+detection
 | ICCV 2021  |  [Active Learning for Deep Object Detection via Probabilistic Modeling](https://openaccess.thecvf.com/content/ICCV2021/papers/Choi_Active_Learning_for_Deep_Object_Detection_via_Probabilistic_Modeling_ICCV_2021_paper.pdf)  | [code](https://github.com/NVlabs/AL-MDN) |
 | CVPR 2018  | [ Towards Human-Machine Cooperation: Evolving Active Learning with Self-supervised Process for Object Detection	 ]( https://arxiv.org/pdf/1803.09867.pdf ) |
-| CVPR 2019  | [ Learning Loss for Active Learning (classification+detection+human-pose)	 ]( https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.pdf ) |
+| CVPR 2019  | [ Learning Loss for Active Learning 	 ]( https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoo_Learning_Loss_for_Active_Learning_CVPR_2019_paper.pdf ) | | classification+detection+human-pose 
 | CVPR 2021 | [Multiple Instance Active Learning for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Multiple_Instance_Active_Learning_for_Object_Detection_CVPR_2021_paper.html) | [code](https://github.com/yuantn/MI-AOD) |
 
 # Semantic segmentation
 | Publication| Paper | Code | Note |
 |--|--|--|--|
-| ICCV 2019 | [Variational Adversarial Active Learning (classification+segmentation)](https://arxiv.org/abs/1904.00370) | [code](https://github.com/sinhasam/vaal) |
+| ICCV 2019 | [Variational Adversarial Active Learning ](https://arxiv.org/abs/1904.00370) | [code](https://github.com/sinhasam/vaal) | | classification+segmentation
 | ICCV 2021  |  [ReDAL: Region-Based and Diversity-Aware Active Learning for Point Cloud Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_ReDAL_Region-Based_and_Diversity-Aware_Active_Learning_for_Point_Cloud_Semantic_ICCV_2021_paper.pdf)  |
-| ICCV 2021  |  [Semi-Supervised Active Learning With Temporal Output Discrepancy(classification+segmentation)](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Semi-Supervised_Active_Learning_With_Temporal_Output_Discrepancy_ICCV_2021_paper.pdf)  | [code](https://github.com/siyuhuang/TOD) |
+| ICCV 2021  |  [Semi-Supervised Active Learning With Temporal Output Discrepancy](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_Semi-Supervised_Active_Learning_With_Temporal_Output_Discrepancy_ICCV_2021_paper.pdf)  | [code](https://github.com/siyuhuang/TOD) | classification+segmentation
 | ICCV 2021  |  [Multi-Anchor Active Domain Adaptation for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ning_Multi-Anchor_Active_Domain_Adaptation_for_Semantic_Segmentation_ICCV_2021_paper.pdf)  | [code](https://github.com/munanning/MADA) |
 | CVPR  2020 |  [State-Relabeling Adversarial Active Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_State-Relabeling_Adversarial_Active_Learning_CVPR_2020_paper.pdf)  |
 | CVPR  2020 |  [ViewAL: Active Learning With Viewpoint Entropy for Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Siddiqui_ViewAL_Active_Learning_With_Viewpoint_Entropy_for_Semantic_Segmentation_CVPR_2020_paper.pdf)  | [code](https://github.com/nihalsid/ViewAL) |
