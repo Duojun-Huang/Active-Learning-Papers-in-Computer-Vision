@@ -1,4 +1,3 @@
-# Active Learning Papers in Different Computer Vision Tasks
 Deep active learning-related articles published at ICCV, CVPR, NIPS, and ECCV conferences from 2017 to 2022. Based on the experimental datasets reported in the original papers, these articles are categorized into **image classification**, **semantic segmentation**, **object detection**, and **other directions**. If a dataset includes both image classification and other directions (semantic segmentation, object detection), the article will be included in the table for other directions.
 # Image classification
 | Publication| Paper | Code | Note |
